@@ -17,7 +17,7 @@ Services required:
 6. (Slack) Go to developers.slack.com
 7. (Slack) Create App
 8. (Slack) Create using a manifest file
-9. (GitHub) Open "raw" the /slack/manifest.txt file
+9. (GitHub) Open "raw" the manifest.txt file
 10. (GitHub) Select all and copy the text
 11. (Slack) Paste the manifest text into the slack window where it asks for your Manifest data. 
 12. (Slack) Add a app token (copy it)
