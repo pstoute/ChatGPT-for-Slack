@@ -27,4 +27,7 @@ Services required:
 16. (OpenAI) Goto program.OpenAI.com/api and generate an API key. 
 17. (glitch) Replace the OpenAI token in the .env file with the one from OpenAPI. 
 18. (Slack) Install the app on your workspace
-19. (Slack) test your /chatGPT slack command. 
+19. (glitch) Open the terminal
+20. (glitch) paste in "pip3 install -r requirements.txt" to install the requirements. 
+21. (glitch) paste in "python3 chatgpt_slack_app.py" to start the program which will activate the app in Slack
+22. (Slack) test your /chatGPT slack command. 
