@@ -24,7 +24,7 @@ Services required:
 13. (glitch) open the .env file and replace the app token variable with your app token from Slack
 14. (Slack) Go to OAuth and create a bot token
 15. (glitch) Replace the bot token with the one from Slack
-16. (OpenAI) Goto program.OpenAI.com/api and generate an API key. 
+16. (OpenAI) Goto platform.OpenAI.com/api and generate an API key. 
 17. (glitch) Replace the OpenAI token in the .env file with the one from OpenAPI. 
 18. (Slack) Install the app on your workspace
 19. (glitch) Open the terminal
